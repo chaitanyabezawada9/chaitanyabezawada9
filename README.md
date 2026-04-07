@@ -1,5 +1,5 @@
-# 💫 About Me:
-IBM Qiskit | Ex. AI Intern @INFOSYS SB | AI & ML Engineer | Salesforce Developer | Cybersecurity | Ethical Hacker | AWS Data Engineer | AWS Cloud Gen AI | AI & ML Google Developer | Google Android Developer | Java Automation Tester
+# 💫 About ME
+Ex. AI Intern @INFOSYS SB | AI & ML Engineer | Salesforce Developer | Cybersecurity | Ethical Hacker | AWS Data Engineer | AWS Cloud Gen AI | AI & ML Google Developer | Google Android Developer | Java Automation Tester
 
 
 ## 🌐 Socials:
